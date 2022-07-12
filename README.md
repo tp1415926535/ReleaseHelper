@@ -18,7 +18,7 @@
 * 多语言：中/英。   
 
 
-![图](https://github.com/tp1415926535/ReleaseHelper/blob/main/%E6%88%AA%E5%9B%BE/%E5%8F%91%E5%B8%83%E5%8A%A9%E6%89%8B3.jpg)     
+![图](https://github.com/tp1415926535/ReleaseHelper/blob/main/%E6%88%AA%E5%9B%BE/%E5%8F%91%E5%B8%83%E5%8A%A9%E6%89%8B%20%E6%95%B0%E6%8D%AE.jpg)     
 
 ---
 
