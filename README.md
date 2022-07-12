@@ -1,6 +1,6 @@
 # 发布助手（ReleaseHelper）
 
-【中文介绍】 【English Instruction】    
+【[中文介绍](https://github.com/tp1415926535/ReleaseHelper/blob/main/README.md#%E4%B8%AD%E6%96%87%E4%BB%8B%E7%BB%8D)】 【[English Instruction](https://github.com/tp1415926535/ReleaseHelper#english-instruction)】    
 
 ## 中文介绍
 
