@@ -9,7 +9,7 @@
 ![图](https://github.com/tp1415926535/ReleaseHelper/blob/main/%E6%88%AA%E5%9B%BE/%E5%8F%91%E5%B8%83%E5%8A%A9%E6%89%8B1.jpg)   
 
 
-### 下载(1.1)   
+### 下载（1.1）  
 * [Github](https://github.com/tp1415926535/ReleaseHelper/raw/main/%E5%8F%91%E5%B8%83%E5%8A%A9%E6%89%8B%EF%BC%88ReleaseHelper%EF%BC%89v1.1.zip)   
 * [蓝奏云](https://wwp.lanzouw.com/igYmJ07wb8cb)
 
@@ -31,7 +31,7 @@ The software is dedicated to solving various tedious and repetitive operations a
 
 ![图](https://github.com/tp1415926535/ReleaseHelper/blob/main/%E6%88%AA%E5%9B%BE/%E5%8F%91%E5%B8%83%E5%8A%A9%E6%89%8B2.jpg)    
 
-### Download(1.1)   
+### Download (1.1)   
 * [Github](https://github.com/tp1415926535/ReleaseHelper/raw/main/%E5%8F%91%E5%B8%83%E5%8A%A9%E6%89%8B%EF%BC%88ReleaseHelper%EF%BC%89v1.1.zip)
 
 ### Function
