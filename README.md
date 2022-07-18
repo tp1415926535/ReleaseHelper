@@ -18,7 +18,7 @@
 * 多语言：中/英。   
 
 ### 更新日志     
-* v1.1：2022/07/16 新增删除动作；增加关闭提示；修复压缩文件重复抛错；增加容错率。   
+* v1.1：2022/07/16 新增删除动作；增加关闭提示；修复压缩文件重复抛错；增加容错率；防止界面卡住。   
 * v1.0：2022/07/12 基础版本，三个动作：复制、压缩到ZIP、运行。    
  
 ![图](https://github.com/tp1415926535/ReleaseHelper/blob/main/%E6%88%AA%E5%9B%BE/%E5%8F%91%E5%B8%83%E5%8A%A9%E6%89%8B%20%E6%95%B0%E6%8D%AE.jpg)     
@@ -39,6 +39,6 @@ The software is dedicated to solving various tedious and repetitive operations a
 * Multi-language: Chinese/English.   
 
 ### Update log     
-* v1.1：2022/07/16 Add delete action; add close prompt; fix duplicate zip file throw error; add fault tolerance.    
+* v1.1：2022/07/16 Add delete action; add close prompt; fix duplicate zip file throw error; add fault tolerance; Preventing the interface from getting stuck.    
 * v1.0：2022/07/12 Base version, three actions: Copy, Compress to ZIP, Run.    
 
