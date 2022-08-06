@@ -18,7 +18,7 @@
 * 多语言：中/英。   
 
 ### 更新日志     
-* v1.2: 2022/08/06 结构改为折叠；增加禁用变灰效果；步骤运行数量排除了禁用项。
+* v1.2：2022/08/06 结构改为折叠；增加禁用变灰效果；步骤运行数量排除了禁用项。
 * v1.1：2022/07/16 新增删除动作；增加关闭提示；修复压缩文件重复抛错；增加容错率；防止界面卡住。   
 * v1.0：2022/07/12 基础版本，三个动作：复制、压缩到ZIP、运行。    
  
@@ -40,7 +40,7 @@ The software is dedicated to solving various tedious and repetitive operations a
 * Multi-language: Chinese/English.   
 
 ### Update log     
-* v1.2: 2022/08/06 Structure changed to collapsed; added disable graying effect; number of step runs exclude disabled items. 
+* v1.2：2022/08/06 Structure changed to collapsed; added disable graying effect; number of step runs exclude disabled items. 
 * v1.1：2022/07/16 Add delete action; add close prompt; fix duplicate zip file throw error; add fault tolerance; Preventing the interface from getting stuck.    
 * v1.0：2022/07/12 Base version, three actions: Copy, Compress to ZIP, Run.    
 
