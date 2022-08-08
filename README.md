@@ -11,7 +11,7 @@
 
 ### 下载（1.2）  
 * [Github](https://github.com/tp1415926535/ReleaseHelper/raw/main/%E5%8F%91%E5%B8%83%E5%8A%A9%E6%89%8B%EF%BC%88ReleaseHelper%EF%BC%89v1.2.zip)   
-* [蓝奏云](https://wwp.lanzouw.com/iW3vw0939ekb)
+* [蓝奏云](https://wwp.lanzouw.com/ie6H00986iuh)
 
 ### 功能
 * 动作：复制、压缩到ZIP、运行、删除。   
