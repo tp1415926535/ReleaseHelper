@@ -42,7 +42,7 @@ The software is dedicated to solving various tedious and repetitive operations a
 * Multi-language: Chinese/English.   
 
 ### Update log     
-* v2.1：2022/09/06 Fix the issue that no steps are recorded for each quantity change.
+* v2.1：2022/09/06 Fix the problem that no steps recorded after count changed.
 * v2.0：2022/09/01 Change to Ribbon style with lots of icons; add step management, replace fields, copy actions across projects.
 * v1.3：2022/08/31 Added view control (batch disable enable, collapse expand), organized menu bar.
 * v1.2：2022/08/06 Structure changed to collapsed; added disable graying effect; number of step runs exclude disabled items. 
